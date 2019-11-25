@@ -1,0 +1,6 @@
+version: '3'
+services:
+  spin-service:
+    build: .
+    volumes:
+      - <path-to-object-dir>:/opt/project

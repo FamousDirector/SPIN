@@ -117,6 +117,7 @@ logs/
 data/*
 # But not the README
 !data/README.md
+!data/smpl/README.md
 
 # ignore prior.py from smplify-x repo
 smplify/prior.py
